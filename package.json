@@ -1,0 +1,31 @@
+{
+  "name": "id-tool",
+  "version": "1.0.0",
+  "description": "A simple but usefull id generator. Can be used to create a custom secret key.",
+  "main": "/src/index.js",
+  "author": "NullOnRise",
+  "keywords": [
+    "id-tool",
+    "idtool",
+    "base64",
+    "secretkey",
+    "security",
+    "utf8",
+    "idgen",
+    "iddecode"
+  ],
+  "bin": "/src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "utf8": "^3.0.0"
+  },
+  "homepage": "https://idtool.nullteam.fun",
+  "bugs": {
+    "url": "https://idtool.nullteam.fun/bugs"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

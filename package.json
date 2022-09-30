@@ -22,7 +22,7 @@
   },
   "homepage": "https://idtool.nullteam.fun",
   "bugs": {
-    "url": "https://idtool.nullteam.fun/bugs"
+    "url": "https://github.com/NullGang/id-tool/issues"
   },
   "repository": {
     "type": "git",
